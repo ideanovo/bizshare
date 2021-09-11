@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996670343179",
+    "project_id": "bizshare-e9c3b",
+    "storage_bucket": "bizshare-e9c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996670343179:android:edd28a8a574dc81b3edf0e",
+        "android_client_info": {
+          "package_name": "golearn.ai.bizshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996670343179-hvaoiib18nh1tm9v3vvhvakddmfip166.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "golearn.ai.bizshare",
+            "certificate_hash": "09c18471278526533f0bbe45f945a2735ef698a6"
+          }
+        },
+        {
+          "client_id": "996670343179-3ct7o3kg60smltoah238r71o9lnquddh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Vabh20c15vJB4XIv-YfzAYjyMHTctS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996670343179-3ct7o3kg60smltoah238r71o9lnquddh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
